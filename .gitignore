@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/logs/
+
+# Godot
+helloagents-ai-town/.godot/
+
+# Godot executables (too large for git)
+Godot_*.exe
+
+# OS
+.DS_Store
+Thumbs.db
